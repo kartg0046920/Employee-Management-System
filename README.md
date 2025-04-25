@@ -1,1 +1,8 @@
-# Employee-Management-System
+說明:
+
+1.使用前端 React 框架，後端 Spring Boot 框架，並用 MySQL 做資料儲存
+2.功能包含新增、查詢、修改、刪除
+3.實測結果請參考動畫和影片
+
+
+
